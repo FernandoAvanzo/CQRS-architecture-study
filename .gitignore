@@ -19,9 +19,16 @@
 *.tar.gz
 *.rar
 
+#exclude .gitsubmodules
+movieinfobff/.git/
+movieinfobff/.git/*.*
+movieinfobff/.gitsubmodules
+
+
 # IntelliJ
 *.iml
 .idea
+.idea/*.*
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml

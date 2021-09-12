@@ -1,0 +1,3 @@
+[submodule "movieinfobff"]
+	path = movieinfobff
+	url = git@github.com:FernandoAvanzo/movieinfobff.git
